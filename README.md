@@ -27,7 +27,7 @@
 
 #### 截图欣赏
 
-![输入图片说明](https://i.loli.net/2021/08/24/NXkfeHmMRxzLlht.png "在这里输入图片标题")
+![输入图片说明](https://i.loli.net/2021/08/29/Pc2fUIOldEuDYBq.png "在这里输入图片标题")
 
 ![输入图片说明](https://i.loli.net/2021/08/24/1NmCcOT6QJr4gaU.png "在这里输入图片标题")
 

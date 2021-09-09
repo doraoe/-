@@ -11,7 +11,7 @@
 
 ####  微信扫码预览已上线版本
 
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0824/110229_87ef567c_7650057.jpeg "gh_8e66fd32b5a3_258.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0910/003111_e995fa23_7650057.jpeg "ZMWVMV9}V3Z]E%0TR_F8DJP.jpg")
 
 #### 安装教程
 
@@ -32,4 +32,4 @@
 ![输入图片说明](https://i.loli.net/2021/08/24/1NmCcOT6QJr4gaU.png "在这里输入图片标题")
 
 #### 微信扫码可查看已上线小程序进行预览
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0824/105629_de6f44b2_7650057.jpeg "gh_8e66fd32b5a3_258.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0910/003111_e995fa23_7650057.jpeg "ZMWVMV9}V3Z]E%0TR_F8DJP.jpg")
